@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Boycartel
+- 👀 I’m interested in PHP projects
+- 🌱 I’m currently learning how to code in PHP
+- 💞️ I’m looking to collaborate on any available project
+- 📫 How to reach me talk2boycartel@gmail.com
